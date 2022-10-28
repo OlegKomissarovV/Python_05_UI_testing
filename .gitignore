@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 test.py
 __pycache__
+__pycache__/
 pytest.ini
