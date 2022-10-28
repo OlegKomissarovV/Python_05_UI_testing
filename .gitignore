@@ -1,4 +1,1 @@
-.idea/
-.pytest_cashe/
-__pycache__/
 test.py
